@@ -24,8 +24,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        spaceId: `7iilrwot6fb8`,
+        accessToken: `wPzD3syr0FNcT9M0jJmDyFEL60K1qWeNV2qSrC7fL-w`
       },
     },
     `gatsby-transformer-sharp`,
